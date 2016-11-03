@@ -1,4 +1,4 @@
-package com.kinstalk.httplib.http;
+package com.horsege.httpsdk.http;
 
 /**
  * Created by mamingzhang on 16/11/3.
